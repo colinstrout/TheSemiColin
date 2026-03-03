@@ -10,10 +10,10 @@ I am a current Junior at Vanderbilt University majoring in Electrical & Computer
 
 # 💻 Tech Stack:
 
-## Embedded Systems and Hardware:
+## Embedded Systems and Hardware
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-A80030?style=for-the-badge&logo=vhdl&logoColor=white)
 
-## Scripting:
+## Scripting
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Backend and Web Development
