@@ -11,7 +11,7 @@ I am a current Junior at Vanderbilt University majoring in Electrical & Computer
 # 💻 Tech Stack:
 
 ## Embedded Systems and Hardware
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-A80030?style=for-the-badge&logo=vhdl&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![VHDL](https://camo.githubusercontent.com/6a0368f9c3aed316e99fe4d4abb84fdf47e12bcdcea187d8d60969bd5ddf9763/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5648444c2d2532333443373039442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56266c6f676f436f6c6f723d7768697465)
 
 ## Scripting
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
